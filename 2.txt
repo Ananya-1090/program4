@@ -1,0 +1,1 @@
+after cloning git creates a folder containing the complete project and its git history
