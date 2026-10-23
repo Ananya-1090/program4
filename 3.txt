@@ -1,0 +1,1 @@
+essential collabration commands are git clone, git push, git pull
